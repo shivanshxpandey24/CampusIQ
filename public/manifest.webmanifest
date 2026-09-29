@@ -1,0 +1,10 @@
+{
+  "name": "CampusIQ Smart Campus",
+  "short_name": "CampusIQ",
+  "description": "Connected operations for your campus community.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#152d4b",
+  "icons": []
+}
